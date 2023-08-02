@@ -27,3 +27,7 @@ Then you make an Application of Recipe Search API.
 
 * You can check its working by going to [http://localhost:3000](http://localhost:3000) in Postman or Chrome.
 * The app should be running on localhost:3000
+
+
+# FlavorVerse Photos
+![FlavorVerse_Imagepng](https://github.com/rahulv2001/FlavorVerse/assets/91122689/d99bf447-00e4-45cd-82dc-e61f18f59ed7)
